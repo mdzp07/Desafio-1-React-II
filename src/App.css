@@ -1,0 +1,33 @@
+.formato-titulo{
+    font-size: 17pt;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+.links{
+    font-size: 13pt;
+}
+
+.formato-cake{
+    font-size: 120px;
+}
+
+.formato-form{
+    width: 70%;
+    margin: auto;
+    margin-top: 60px;
+}
+
+.formato-descripcion{
+    height: 100px;
+}
+
+.format-carousel{
+    width: 80%;
+    margin: auto;
+}
+
+img {
+    width: 700px;
+    height: 430px;
+    margin: auto;
+}
